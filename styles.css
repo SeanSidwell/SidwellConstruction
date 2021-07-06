@@ -407,6 +407,7 @@ h4
     display: inline-block;
     margin-bottom: 10px;
     overflow: hidden;
+    cursor: crosshair;
 }
 
 .galleryContainer img
